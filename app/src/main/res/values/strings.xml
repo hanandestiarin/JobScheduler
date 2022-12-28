@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Job Scheduler</string>
+    <string name="none">No Network</string>
+    <string name="any">Any Network</string>
+    <string name="wifi">Wifi Network</string>
+    <string name="Job_service_message">Job Service Message</string>
+    <string name="Ran_job">Ran Job</string>
+</resources>
